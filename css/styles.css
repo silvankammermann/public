@@ -1,0 +1,25 @@
+p#text-id.text-class {
+    /* 1 1 1 */
+    color: purple;
+}
+
+#text-id {
+    /* 1 0 0 */
+    color: lime;
+}
+
+.text-class {
+    /* 0 1 0 */
+    color: green;
+    color: red;
+}
+
+.text-class {
+    /* 0 1 0 */
+    color: blue;
+}
+
+p {
+    /* 0 0 1 */
+    color: pink;
+}
