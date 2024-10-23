@@ -1,0 +1,21 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.character {
+    display: flex;
+    border-radius: 1rem;
+    background: gray;
+    overflow: hidden;
+    color: white;
+    margin: 1rem auto;
+    max-width: 40rem;
+}
+
+.character__picture img {
+    height: 16rem;
+}
+
+.character__info {
+    padding: 1rem;
+}
